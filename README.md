@@ -11,7 +11,7 @@ This project implements:
 The code implements several algorithms:
 - **LDR²PE-CP** (Localized Doubly Robust Distributionally Robust Policy Evaluation for Continuous Pricing)
 - **CDR²O²PL-CP** (Continuum Doubly Robust DRO OPL for Continuous Pricing)
-- **DRO-IPW** (Distributionally Robust Inverse Propensity Weighting from Leung et al, 2025)
+- **DRO-IPW** (Distributionally Robust Inverse Propensity Weighting from Leung et al. 2025)
 - **DR** (Double Robust method from Ai et al. 2024)
 
 ## Installation
