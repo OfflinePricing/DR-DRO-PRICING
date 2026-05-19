@@ -8,7 +8,7 @@ Implementation of **Offline Policy Evaluation (OPE)** and **Offline Policy Learn
 |------|------|-----------|
 | **LDR²PE-CP** | OPE: localized doubly robust DR policy evaluation | This repo (Algorithm 1) |
 | **DRO-IPW** | OPE: DR-IPW style evaluator | Leung et al. (2025) |
-| **CDR²O²PL-CP (DRO)** | OPL: continuum doubly robust DRO policy learning | `offline_pricing.tex` |
+| **CDR²O²PL-CP (DRO)** | OPL: continuum doubly robust DRO policy learning | This repo (Algorithm 2) |
 | **Leung2025** | OPL baseline | Leung et al. (2025) |
 | **Ai2024** | OPL non-robust baseline (double debiasing) | Ai et al. (2026) |
 
