@@ -96,7 +96,7 @@ python experiments/ope/run_main_OPE.py
 
 **Outputs:**
 
-File: `OPE_Figure1_linear.pdf` ( MSE vs T (Figure 1) )
+File: `OPE_bandwidth.pdf` ( MSE vs T (Figure 1) )
 
 
 **Bandwidth sensitivity** (Silverman \(n^{-1/5.0}\) vs \(n^{-1/4.9}\) vs \(n^{-1/2.9}\) rules):
@@ -121,7 +121,7 @@ python experiments/opl/run_main_OPL_synthetic.py
 
 **Outputs:**
 
-File: `Figure2_DROPL_vs_N_Q_DRO_linear.pdf` (Figure 2 style plot (via `src.visualization`) 
+File: `OPL_bandwidth.pdf` (Figure 2 style plot (via `src.visualization`) 
 
 **Bandwidth sensitivity:**
 
@@ -169,7 +169,7 @@ python experiments/opl/run_main_OPL_expedia.py
 
 **Outputs:**
 
-File：`Figure2_DROPL_vs_N_Q_min_linear_hotel_type.pdf` 
+File：`Expedia_Statistics.csv` 
 
 
 
